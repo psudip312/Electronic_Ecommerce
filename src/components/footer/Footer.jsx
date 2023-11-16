@@ -1,5 +1,4 @@
 import React from "react";
-import { MdEmail } from "react-icons/Md";
 import { BiLogoFacebook, BiLogoLinkedin, BiLogoTiktok } from "react-icons/bi";
 import { IoIosCall } from "react-icons/io";
 import { AiOutlineInstagram } from "react-icons/ai";
