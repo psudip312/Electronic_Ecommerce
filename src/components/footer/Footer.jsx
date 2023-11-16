@@ -2,7 +2,7 @@ import React from "react";
 import { MdEmail } from "react-icons/Md";
 import { BiLogoFacebook, BiLogoLinkedin, BiLogoTiktok } from "react-icons/bi";
 import { IoIosCall } from "react-icons/io";
-import { AiOutlineInstagram, AiOutlineLinkedin } from "react-icons/ai";
+import { AiOutlineInstagram } from "react-icons/ai";
 
 const Footer = () => {
   const CustomerLinks = [
