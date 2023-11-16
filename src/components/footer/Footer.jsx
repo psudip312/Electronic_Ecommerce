@@ -70,7 +70,6 @@ const Footer = () => {
         <div className="flex flex-col gap-2 mt-6 lg:mt-0">
           <strong>Support</strong>
           <div className="flex  gap-2 ">
-            <MdEmail className="text-[#0056D1]" size={20} />
             <span className="hover:text-[#0056D1] ">example@domain.com</span>
           </div>
           <div className="flex gap-2">
